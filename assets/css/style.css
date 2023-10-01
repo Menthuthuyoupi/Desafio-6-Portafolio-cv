@@ -1,36 +1,35 @@
-@import url('https://fonts.googleapis.com/css2?family=Charm:wght@400;700&display=swap');
-
-.bg-body{
-    background: linear-gradient(#000b76, #003b53);
-    font-family: 'Charm', cursive;
+.bg-body {
+	background: linear-gradient(#000b76, #003b53);
+	font-family: 'Roboto', sans-serif;
 }
 
-p{
-    font-weight: 400;
-    font-size: 1.2rem;
+p {
+	font-weight: 400;
+	font-size: 1.2rem;
 }
 
-.inicio{
-    justify-content: center;
+.inicio {
+	justify-content: center;
 }
 
-.justify{
-    text-align: justify;
+.justify {
+	text-align: justify;
 }
 
-h3,h2{
-    text-decoration: underline;
-    font-weight: 700;
+h3,
+h2 {
+	text-decoration: underline;
+	font-weight: 700;
 }
 
-h2{
-    text-align: center;
+h2 {
+	text-align: center;
 }
 
-.caja{
-    box-sizing: border-box;
+.caja {
+	box-sizing: border-box;
 }
 
-.icono{
-    font-size: 2rem;
+.icono {
+	font-size: 2rem;
 }
